@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: bgz30/blog
+  repo: bgz30/bassantgz30
   branch: master
 
 media_folder: "static/media"
